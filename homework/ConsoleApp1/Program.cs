@@ -48,7 +48,7 @@ namespace ConsoleApp1
             }
             if (agency == "NSA")
             {
-                if (one != 0 && one <= 5)
+                if (30%one == 0)
                 {
                     if (hun % 3 == 0 && hun % 2 != 0)
                     {
