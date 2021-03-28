@@ -9,11 +9,11 @@ namespace ข้อ_3
             int a, b, c,n, i = 0, winner = 0;
             char pick;
 
-            Console.Write("First Box : ");
+            Console.Write("InputFirst Tank : ");
             a = int.Parse(Console.ReadLine());
-            Console.Write("Second Box : ");
+            Console.Write("InputSecond Tank : ");
             b = int.Parse(Console.ReadLine());
-            Console.Write("Third Box : ");
+            Console.Write("InputThird Tank : ");
             c = int.Parse(Console.ReadLine());
             while (i == 0) 
             {
@@ -65,12 +65,11 @@ namespace ข้อ_3
                     }
                     else 
                     { 
-                        Console.WriteLine("You can pick only 1/2 box!! Input again!!!\n"); 
+                        Console.WriteLine("You can pick only 1/2 box!!! Input again!!!\n"); 
                     }
                 }
             }
-            Console.ReadLine();
-            
+            Console.ReadLine();        
         }
     }
 }
