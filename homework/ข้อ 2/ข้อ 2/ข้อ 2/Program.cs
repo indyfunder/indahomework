@@ -15,7 +15,7 @@ namespace ข้อ_2
             y = b;
             i = 0;
             
-            while (i>=0)
+            while (i==0)
             {
                 if (x == y)
                 {
@@ -32,12 +32,9 @@ namespace ข้อ_2
                     {
                         y = y + b;
                     }
-                }
-                i++;
+                }                
             }
-
-
-
+            Console.ReadLine();
 
         }
     }
