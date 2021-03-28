@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\0.2021\\mdt112\\indawork\\homework\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "E:\\0.2021\\mdt112\\indawork\\homework\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "E:\\0.2021\\mdt112\\indawork\\homework\\ข้อ 2\\ข้อ 2\\ข้อ 2\\ข้อ 2.csproj",
+      "projectName": "ข้อ 2",
+      "projectPath": "E:\\0.2021\\mdt112\\indawork\\homework\\ข้อ 2\\ข้อ 2\\ข้อ 2\\ข้อ 2.csproj",
       "packagesPath": "C:\\Users\\iNtelszz\\.nuget\\packages\\",
-      "outputPath": "E:\\0.2021\\mdt112\\indawork\\homework\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\0.2021\\mdt112\\indawork\\homework\\ข้อ 2\\ข้อ 2\\ข้อ 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iNtelszz\\AppData\\Roaming\\NuGet\\NuGet.Config",
