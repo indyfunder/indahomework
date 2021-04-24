@@ -1,0 +1,13 @@
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.exe
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.deps.json
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.runtimeconfig.json
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.runtimeconfig.dev.json
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.dll
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\bin\Debug\netcoreapp3.1\ข้อ4.pdb
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.csprojAssemblyReference.cache
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.AssemblyInfoInputs.cache
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.AssemblyInfo.cs
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.csproj.CoreCompileInputs.cache
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.dll
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.pdb
+E:\0.2021\mdt112\indawork\Midterm\ข้อ4\ข้อ4\obj\Debug\netcoreapp3.1\ข้อ4.genruntimeconfig.cache
