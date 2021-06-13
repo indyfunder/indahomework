@@ -1,0 +1,13 @@
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.exe
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.deps.json
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.runtimeconfig.json
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.runtimeconfig.dev.json
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.dll
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\bin\Debug\netcoreapp3.1\final02.pdb
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.csprojAssemblyReference.cache
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.AssemblyInfoInputs.cache
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.AssemblyInfo.cs
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.csproj.CoreCompileInputs.cache
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.dll
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.pdb
+E:\0.2021\mdt112\indawork\Final\ข้อ2\final02\obj\Debug\netcoreapp3.1\final02.genruntimeconfig.cache
